@@ -2,6 +2,9 @@
  * Globals
  */
 
+ * {
+  cursor: url('osuskins/cursor.png') 25 15, default;
+ }
 
 /* Custom default button */
 .btn-secondary,
@@ -10,7 +13,6 @@
   color: #333;
   text-shadow: none; /* Prevent inheritance from `body` */
 }
-
 
 /*
  * Base structure
