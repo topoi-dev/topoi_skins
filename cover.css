@@ -75,6 +75,9 @@ body {
 img {
   max-width: 100%;
 }
+.card-deck {
+  padding: 0 5%;
+}
 .card {
   position: relative;
   background: #333;
